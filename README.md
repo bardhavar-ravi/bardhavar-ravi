@@ -1,1 +1,1 @@
-I am Bardhavar Ravindhar. I am currently working with Fi Ellements.
+I am Bardhavar Ravindhar. I am currently working with Fi Ellements. I am so grateful to all fiellements team. I am passionate in web development towards learning new things and implimenting new concepts. I am interested in React.js and I have skills HTML, CSS, JavaScript and Bootstrap.
